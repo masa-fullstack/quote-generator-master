@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">todo</h1>
+<h1 align="center">Random quote generator</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
+    <a href="https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8">
       Challenge
     </a>
   </h3>
@@ -50,7 +50,6 @@ Thanks for viewing :)
 
 - [NextJS](https://nextjs.org/)
 - [NextJS Typescript Boilerplate](https://github.com/vercel/next.js/tree/master/examples/with-typescript-eslint-jest)
-- [react-tabs](https://github.com/reactjs/react-tabs)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Docker](https://www.docker.com/)
@@ -67,10 +66,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/masa-fullstack/todo-app-master
+$ git clone https://github.com/masa-fullstack/quote-generator-master
 
 # Change directory
-$ cd todo-app-master
+$ cd quote-generator-master
 
 ```
 
@@ -88,6 +87,8 @@ $ docker-compose up
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
 - [Tailwind CHEAT SHEET](https://nerdcave.com/tailwind-cheat-sheet)
+- [That's right. I am the SWR that makes React simple.](https://zenn.dev/uttk/articles/b3bcbedbc1fd00)
+
 
 ## Contact
 
