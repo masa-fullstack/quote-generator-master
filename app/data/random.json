@@ -1,0 +1,19 @@
+{
+  "statusCode": 200,
+  "message": "Random quotes",
+  "pagination": {
+    "currentPage": 1,
+    "nextPage": null,
+    "totalPages": 1
+  },
+  "totalQuotes": 1,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e71890",
+      "quoteText": "When you think of it I haven't really done a lot of horror. It's amazing: I have done some really good ones, but I haven't done a lot of them.",
+      "quoteAuthor": "Michael Rooker",
+      "quoteGenre": "amazing",
+      "__v": 0
+    }
+  ]
+}
